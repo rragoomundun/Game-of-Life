@@ -4,7 +4,7 @@ Conway's game of life made with C and SDL
 ### Installation
 
 - Install SDL2
-- Run : gcc -Wall -Wextra *.c -lSDL2
+- Run : ./install.sh
  
 ### Possible improvements
 
